@@ -103,8 +103,8 @@ header nav a:hover{
 }
 
 .box-filme{
-    height: 800%;
-    width: 800%;
+    height: 100%;
+    width: 100%;
     display: block;
     cursor: pointer;
 }
@@ -114,6 +114,10 @@ header nav a:hover{
     margin-top:5px;
 }
 
+
+.carrosel-filmes{
+    margin-top: 10px;
+}
 
 
 
