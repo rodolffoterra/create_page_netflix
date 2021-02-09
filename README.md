@@ -2,7 +2,7 @@
 
 ## Cursos: Recriando a Interface do Netflix
 
-Nesse projeto você terá o desafio de reconstruir a interface do Netflix, no qual será abordado o conceito sobre HTML5 / CSS / JAVASCRIPT, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibiliza todo o material necessário em seu GitHub para que você possa realizar o seu projeto.
+Nesse projeto foi recriado a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto foi desenvolvido: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
 ### Página da Interface do Netflix:
 
