@@ -6,18 +6,18 @@ Nesse projeto você terá o desafio de reconstruir a interface do Netflix, no qu
 
 ### Página da Interface do Netflix:
 
-![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/page%20do%20Instagram.png)
+![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_netflix/main/img/captura-de-tela-2014-12-02-as-134653.jpg)
 
 
-### Página desenvolvido neste projeto de Login do Instagram:
+### Página desenvolvido neste projeto da Interface do Netflix:
 
 
-![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/meu%20projeto.png)
+![Instagram](https://raw.githubusercontent.com/rodolffoterra/create_page_netflix/main/img/netflix_projeto.png)
 
 
 ### Certificado
 
-![Digital Innovation One](https://raw.githubusercontent.com/rodolffoterra/create_page_instagram/main/img/certificado_%20Recriando_p%C3%A1gina_Instagram.pdf_page_1.png)
+![Digital Innovation One](https://raw.githubusercontent.com/rodolffoterra/create_page_netflix/main/img/certificado.pdf_page_1.png)
 
 
 # Desenvolvedo:
@@ -29,13 +29,11 @@ Economista, pós graduado em direito processual do trabalho e cientista de dados
 
 # Credits:
 
- * Sie:
-	<p style="text-align: left;"><a href="http://www.rodolfoterra.com">Rodolfo Terra</a></p>
+ * Site:     <a href="http://www.rodolfoterra.com">Rodolfo Terra</a>
 
- * in:
-	<p style="text-align: left;"><a href="https://www.linkedin.com/in/rodolffoterra/">Linkedin</a></p>
+ * Linkedin:       <a href="https://www.linkedin.com/in/rodolffoterra/">In</a>
    
- * GitHub:
-	<p style="text-align: left;"><a href="https://github.com/rodolffoterra">GitHub</a></p>
+ * GitHub:   <a href="https://github.com/rodolffoterra">GitHub</a>
 
  ![Ciência de Dados](https://raw.githubusercontent.com/rodolffoterra/Project_KPIs/main/imagem/logo.png)
+
